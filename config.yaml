@@ -1,0 +1,75 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Kulinda Security"
+
+# googleAnalytics: ""
+
+summaryLength: 15
+
+params:
+  title: "Kulinda Security"
+  description: "Be a step ahead of cybercriminals. Test your defenses so you stay in control"
+  images: 
+    - "images/home-image.png"
+    
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+    
+  location:
+    - "Rue Youri Gagarine, 92700 Colombes, France"
+    - "Technopôle, Pikine Rue 10, Dakar, Sénégal"
+
+  contact:
+    - "contact@kulinda-sec.com"
+    - "+33.614.966.131"
+
+  copyright: "© 2024 Kulinda Security All Rights Reserved"
+  
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 4
+      
+    - name: "Our services"
+      url: "/#services"
+      weight: 2
+      
+    - name: "Contact"
+      url: "/contact"
+      weight: 3
+
+
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Our services"
+      url: "/#services"
+      weight: 2
+
+    - name: "Blog"
+      url: "/blog"
+      weight: 4
+            
+    - name: "Contact"
+      url: "/contact"
+      weight: 3
+
+
+taxonomies:
+  series: "series"
+  tags: "tags"

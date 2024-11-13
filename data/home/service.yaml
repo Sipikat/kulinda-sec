@@ -1,0 +1,33 @@
+enabled: true
+id: "service"
+
+content:
+  title: "Our main services"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "PENETRATION TESTING"
+      text: "A broad but thorough test of network hosts meant to answer one question: If hackers targeted my company, how could they impact our business? "
+      button:
+        label: "Learn more"
+        url: "#"
+
+
+      
+
+    - image: "images/services-web-development.png"
+      title: "ARCHITECTURE AND INTEGRATION"
+      text: "A thorough test of every component, process, page, and parameter in a web application to identify vulnerabilities and flaws in business logic. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+      
+
+    - image: "images/services-web-development.png"
+      title: "COSTUM SOLUTIONS"
+      text: "A methodical test of wireless hosts and infrastructure to identify vulnerabilities that could allow access to restricted networks. "
+      button:
+        label: "Learn more"
+        url: "#"
+

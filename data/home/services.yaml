@@ -1,0 +1,38 @@
+enabled: true
+id: "services"
+
+content:
+  title: "OUR MAIN SERVICES"
+  text: " We help to prevent breaches and keep your company safe. With decades of combined experience, thousands of hours of practice, and core values from our time in service, we will use our skill set to secure your environment."
+  cards:
+    - image: "images/services-network.png"
+      title: "Network Penetration Test"
+      text: "A broad but thorough test of network hosts meant to answer one question: If hackers targeted my company, how could they impact our business? "
+      
+
+    - image: "images/services-web.png"
+      title: "Web App Penetration Test"
+      text: "A thorough test of every component, process, page, and parameter in a web application to identify vulnerabilities and flaws in business logic. "
+      
+
+    - image: "images/services-wifi.png"
+      title: "Wireless Penetration Test"
+      text: "A methodical test of wireless hosts and infrastructure to identify vulnerabilities that could allow access to restricted networks. "
+
+        
+        
+    - image: "images/services-social.png"
+      title: "Social Engineering Engagement"
+      text: "A careful test of employees abilities to detect malicious interactions to provide a more meaningful user awareness metric than 'Training Completed'. "
+
+                
+    - image: "images/services-sec-archi.png"
+      title: "Security Architecture Assessment"
+      text: "A console architecture assessment considers the perimeter and internal network architectures and configurations."
+      
+                      
+    - image: "images/services-custom.png"
+      title: "Training and Costum services"
+      text: "We are ready to support you in your security needs. Get In Touch "
+
+
